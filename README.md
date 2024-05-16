@@ -63,6 +63,6 @@ python Home_Price_Index_Prediction_based_on_LSTM.py
 python Macro_Asset_Price_Prediction_based_on_LSTM.py
 ```
 
-The scripts are set up to automatically take advantage of GPU acceleration if available. However, they can also be executed using just a CPU with similar efficiency. This ensures that regardless of your system configuration, you should be able to run the scripts and replicate our findings.
+The scripts are set up to automatically take advantage of GPU acceleration if available. However, they can also be executed using just a CPU. This ensures that regardless of your system configuration, you should be able to run the scripts and replicate our findings.
 
 ---
