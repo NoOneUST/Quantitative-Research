@@ -14,7 +14,7 @@ This repository :file_folder: contains two sub-projects dedicated to quantitativ
 
 This project is accompanied by a [research paper](./Home_Price_Index_Prediction.pdf) :page_with_curl:. The code for this project can be found in the following python scripts: 
 
-1. 🐍 [Home_Price_Index_Prediction_based_on_Linear_Regression.py](./Code/Home_Price_Index_Prediction_based_on_Linear_Regression.py)
+1. 🐍 [Home_Price_Index_Prediction_based_on_Linear_Regression.py](./Code/Home_Price_Index_Prediction_based_on_Linear%20Regression.py)
 2. 🐍 [Home_Price_Index_Prediction_based_on_LSTM.py](./Code/Home_Price_Index_Prediction_based_on_LSTM.py)
 
 Both files contain standalone scripts that generate the results mentioned in the paper 📝 upon execution.
