@@ -37,8 +37,8 @@ pip install torch sklearn pandas numpy matplotlib yfinance
 
 Each Python script can be run independently to reproduce the corresponding project's results. Here's how you can run them from the command line:
 
-1. `python Home_Price_Index_Prediction_based_on_Linear Regression.py`
-2. `python Home_Price_Index_Prediction_based_on_LSTM.py`
-3. `python Macro_Asset_Price_Prediction_based_on_LSTM.py`
+1. `python 'Home_Price_Index_Prediction_based_on_Linear Regression.py'`
+2. `python 'Home_Price_Index_Prediction_based_on_LSTM.py'`
+3. `python 'Macro_Asset_Price_Prediction_based_on_LSTM.py'`
 
 The scripts are set up to automatically take advantage of GPU acceleration if available. However, they can also be executed using just a CPU with similar efficiency. This ensures that regardless of your system configuration, you should be able to run the scripts and replicate our findings.
